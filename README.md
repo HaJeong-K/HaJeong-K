@@ -83,4 +83,4 @@
 
 **[SNS]**
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> [<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>](https://forky-develop.tistory.com/)
