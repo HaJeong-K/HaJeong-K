@@ -8,7 +8,7 @@
 
 <br>
 
-## Introduction
+## 👋🏻 Introduction
 <img src="https://github.com/HaJeong-K/multi_cam_total/assets/91309266/bc122e91-b7da-452a-b7fa-bf249497d743.png" width="300" height="310"/>
 
 <br>
@@ -22,7 +22,7 @@
 
 <br>
 
-## Career
+## 👩🏻‍💼 Career
 - GDSC - KMOU flutter 일반멤버 (2021.08 ~ 2022.08)
 - UMC - KMOU Kotlin 일반멤버 (2022.04 ~ 2022.12) : 졸업작품 시즌으로 중도포기
   + 졸업작품을 flutter로 진행했으며, 당시 github를 제대로 활용하지 못해 추후 업로드 예정.
@@ -30,13 +30,13 @@
 
 <br>
 
-## Project
+## 👩🏻‍💻 Project
 
 - [**Jeju project** (제주도 여행 동향 프로젝트)](https://github.com/HaJeong-K/Jeju_project)
 
 <br>
 
-## Skill
+## 📚 Skill
 <br>
 
 **[Langauge]**
@@ -71,16 +71,16 @@
 
 **[Others]**
 
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/jinja-B41717?style=flat&logo=jinja&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> 
 
 <br>
 
 **[By my self -ing]**
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/jinja-B41717?style=flat&logo=jinja&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
 
 <br>
 
 **[SNS]**
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> [<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>](https://forky-develop.tistory.com/)
+[<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>](https://github.com/HaJeong-K) [<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>](https://forky-develop.tistory.com/)
