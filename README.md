@@ -34,6 +34,8 @@
 
 - [**Jeju project** (제주도 여행 동향 프로젝트)](https://github.com/HaJeong-K/Jeju_project)
 
+- [**Multi-Telecom** (통신사 해지율 개선 마케팅 서비스)](https://github.com/HaJeong-K/Multi-Telecom/tree/main)
+
 <br>
 
 ## 📚 Skill
