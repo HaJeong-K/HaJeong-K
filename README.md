@@ -1,7 +1,7 @@
 # Information
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=293&color=gradient&text=Hello,%20HaJeong-K&descAlign=71&descAlignY=60&fontAlignY=43&reversal=true&animation=twinkling&descSize=7&animation=100&fontSize=80&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hello,%20HaJeong-K&descAlign=71&descAlignY=60&fontAlignY=43&reversal=true&animation=twinkling&descSize=7)
 
 <br>
 
