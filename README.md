@@ -1,7 +1,8 @@
 # Information
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=130&section=header&text=Hello,+HaJeong-K&animation=100&fontSize=80&fontAlignY=70&fontColor=5ad7b7)
+![header](https://capsule-render.vercel.app/api?type=waving&height=293&color=gradient&text=Hello,%20HaJeong-K&descAlign=71&descAlignY=60&fontAlignY=43&reversal=true&animation=twinkling&descSize=7&animation=100&fontSize=80&section=header)
+
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaJeong-K&count_bg=%23FD5CBC&title_bg=%235CC9F9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
