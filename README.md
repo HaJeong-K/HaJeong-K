@@ -35,11 +35,12 @@
 - [**Jeju project** (제주도 여행 동향 프로젝트)](https://github.com/HaJeong-K/Jeju_project)
 
 - [**Multi-Telecom** (통신사 해지율 개선 마케팅 서비스)](https://github.com/HaJeong-K/Multi-Telecom/tree/main)
+<br>
 
-번외)
-> 졸업작품으로 만들었던 flutter 기본기능을 사용한 장바구니 메모 어플에 대해 기록으로 남겨둠.
 
-- **장바구니 메모 어플** : 2024.01.07~08 사이에 정리해서 올릴 예정.
+번외) 졸업작품으로 만들었던 flutter 장바구니 메모 어플에 대해 기록으로 남겨둠.
+
+- [**Shopping_Cart** (장바구니 메모 어플)](https://github.com/HaJeong-K/Shopping_Cart/tree/main)
 
 <br>
 
