@@ -20,6 +20,7 @@
 - 닉네임 : FORKY
 - 이메일 : infoker12@naver.com
 - 블로그 : https://forky-develop.tistory.com/
+- 포트폴리오 : [포트폴리오 보러가기](https://github.com/HaJeong-K/HaJeong-K/files/14546969/default.pdf)
 
 <br>
 
