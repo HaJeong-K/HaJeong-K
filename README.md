@@ -20,15 +20,18 @@
 - 닉네임 : FORKY
 - 이메일 : infoker12@naver.com
 - 블로그 : https://forky-develop.tistory.com/
-- 포트폴리오 : [포트폴리오 보러가기](https://github.com/HaJeong-K/HaJeong-K/files/14546969/default.pdf)
+- 포트폴리오 : [포트폴리오 보러가기 (다운로드)](https://github.com/HaJeong-K/HaJeong-K/files/14546969/default.pdf)
 
 <br>
 
 ## 👩🏻‍💼 Career
-- GDSC - KMOU flutter 일반멤버 (2021.08 ~ 2022.08)
+- codeit - 대학생코딩캠프 5기 수료 (2021.05 ~ 2021.06) : Python 알고리즘 관련 수강.
+- GDSC - KMOU flutter 일반멤버 수료 (2021.08 ~ 2022.08)
 - UMC - KMOU Kotlin 일반멤버 (2022.04 ~ 2022.12) : 졸업작품 시즌으로 중도포기
-  + 졸업작품을 flutter로 진행했으며, 당시 github를 제대로 활용하지 못해 추후 업로드 예정.
-- 멀티캠퍼스 데이터 분석 & 엔지니어 취업캠프 28회차 (2023.06.26 ~)
+  + 졸업작품을 flutter로 진행하게되어 중도포기.
+- 멀티캠퍼스 데이터 분석 & 엔지니어 취업캠프 28회차 (2023.06.26 ~ 2023.12.05)
+- Metacode 서포터즈 2기 (2024.01.11 ~ )
+- kaggle 공식 스터디 멤버 (2024.02 ~ )
 
 <br>
 
