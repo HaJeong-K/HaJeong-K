@@ -17,9 +17,13 @@
 <br>
 
 - 이름 : HaJeong-K 
+
 - 닉네임 : FORKY
+
 - 이메일 : infoker12@naver.com
+
 - 블로그 : https://forky-develop.tistory.com/
+
 - 포트폴리오 : [포트폴리오 보러가기 (다운로드)](https://github.com/HaJeong-K/HaJeong-K/files/14546969/default.pdf)
 
 <br>
@@ -59,7 +63,7 @@
 
 - [**교육 수강 기간동안 공부한 내용**](https://github.com/HaJeong-K/multi_cam_total) : 교육 + 개인 공부 포함이며 코드 외의 트러블 슈팅 등은 블로그를 참고해주세요.
 
-- [**서포터즈 활동기간 동안 공부한 코드관련 내용**](https://github.com/HaJeong-K/multi_cam_total) : 코드 외의 내용은 블로그를 참고해주세요. 😀
+- [**서포터즈 활동기간 동안 공부한 코드관련 내용**](https://github.com/HaJeong-K/Metacode_study) : 코드 외의 내용은 블로그를 참고해주세요. 😀
 <br>
 
 **[Langauge]**
