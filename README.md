@@ -10,13 +10,12 @@
 <br>
 
 ## 👋🏻 Introduction
-<img src="https://github.com/HaJeong-K/multi_cam_total/assets/91309266/bc122e91-b7da-452a-b7fa-bf249497d743.png" width="300" height="310"/>
+<img src="https://github.com/user-attachments/assets/45beed45-3134-4933-aa25-528ae0eb0e87" width="313.8" height="426.9"/>
 
 <br>
 <br>
-<br>
 
-- 이름 : HaJeong-K 
+- 이름 : HaJeong-K (김하정)
 
 - 닉네임 : FORKY
 
