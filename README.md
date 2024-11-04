@@ -23,7 +23,7 @@
 
 - 블로그 : https://forky-develop.tistory.com/
 
-- 포트폴리오 : [포트폴리오 보러가기 (다운로드)](https://github.com/HaJeong-K/HaJeong-K/files/14546969/default.pdf)
+- 포트폴리오 : [포트폴리오 바로 보러가기](https://github.com/HaJeong-K/HaJeong-K/blob/main/%EA%B9%80%ED%95%98%EC%A0%95_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 <br>
 
