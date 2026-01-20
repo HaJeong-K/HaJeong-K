@@ -26,13 +26,16 @@
 
 ## 👩🏻‍💼 Career
 - codeit - 대학생코딩캠프 5기 수료 (2021.05 ~ 2021.06) : Python 알고리즘 관련 수강.
+<img width="270" height="364" alt="Image" src="https://github.com/user-attachments/assets/5876af25-8c3a-4217-b313-f75113fb640d" />
 
 - GDSC - KMOU flutter 일반멤버 수료 (2021.08 ~ 2022.08)
+<img width="364" height="270" alt="Image" src="https://github.com/user-attachments/assets/63a53e4b-659b-48d5-a796-6397a56c5e04" />
 
 - UMC - KMOU Kotlin 일반멤버 (2022.04 ~ 2022.12) : 졸업작품 시즌으로 중도포기
   + 졸업작품을 flutter로 진행하게되어 2가지 프로그래밍 언어를 활용하는 프로젝트를 모두 병행하는 것이 어려워 중도포기.
 
 - 멀티캠퍼스 데이터 분석 & 엔지니어 취업캠프 28회차 (2023.06.26 ~ 2023.12.05)
+<img width="270" height="364" alt="Image" src="https://github.com/user-attachments/assets/e8866f75-efb2-448b-8856-f4de01939f24" />
 
 - Metacode 서포터즈 2기 (2024.01.11 ~ 2024.03.31)
 <img src="https://github.com/user-attachments/assets/e7af0224-26c3-4a79-abfd-3fe9a29078ef" width="364" height="270"/>
