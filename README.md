@@ -5,9 +5,6 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaJeong-K&count_bg=%23FD5CBC&title_bg=%235CC9F9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
 
 ## 👋🏻 Introduction
 <img src="https://github.com/user-attachments/assets/45beed45-3134-4933-aa25-528ae0eb0e87" width="313.8" height="426.9"/>
@@ -33,7 +30,7 @@
 - GDSC - KMOU flutter 일반멤버 수료 (2021.08 ~ 2022.08)
 
 - UMC - KMOU Kotlin 일반멤버 (2022.04 ~ 2022.12) : 졸업작품 시즌으로 중도포기
-  + 졸업작품을 flutter로 진행하게되어 중도포기.
+  + 졸업작품을 flutter로 진행하게되어 2가지 프로그래밍 언어를 활용하는 프로젝트를 모두 병행하는 것이 어려워 중도포기.
 
 - 멀티캠퍼스 데이터 분석 & 엔지니어 취업캠프 28회차 (2023.06.26 ~ 2023.12.05)
 
@@ -44,7 +41,13 @@
 - kaggle 공식 스터디 멤버 (2024.02 ~ 2024.05)
   + 취업의 갈래에 대한 고민과 일과 병행하기 어려워 중도 하차.
 
-- 구직자 취업연계형 일학습병행 교육 1회차(한국해양대학교 산학연ETRS센터) 수료 (2024.08 ~ 2024.09)
+- 구직자 취업연계형 일학습병행 교육 1회차 (한국해양대학교 산학연ETRS센터) 수료 (2024.08 ~ 2024.09)
+
+- 구미전자정보기술원 계약직 연구원 근무 (2024.12.01 ~ 2025.04.30)
+
+- 데이터리안 SQL 데이터 분석 캠프 입문반 수료 (2025.11.01 ~ 2025.11.30)
+<img width="364" height="270" alt="Image" src="https://github.com/user-attachments/assets/2cc93b0e-a9fe-4981-960d-8d90324c9a58"/>
+<br>
 <br>
 
 ## 👩🏻‍💻 Project
