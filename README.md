@@ -53,6 +53,9 @@
 <br>
 <br>
 
+- 경북대학교 IT대학 ICT융합학과 재학중 (2026.03 ~ )
+<br>
+
 ## 👩🏻‍💻 Project
 
 - [**Jeju project** (제주도 여행 동향 프로젝트)](https://github.com/HaJeong-K/Jeju_project)
@@ -61,7 +64,7 @@
 <br>
 
 
-번외) 졸업작품으로 만들었던 flutter 장바구니 메모 어플에 대해 기록으로 남겨둠.
+번외) 해대 졸업작품으로 만들었던 flutter 장바구니 메모 어플에 대해 기록으로 남겨둠.
 
 - [**Shopping_Cart** (장바구니 메모 어플)](https://github.com/HaJeong-K/Shopping_Cart/tree/main)
 
@@ -89,7 +92,7 @@
 
 **[DB]**
 
-<img src="https://img.shields.io/badge/mysql-B41717?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-B41717?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-B41717?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-B41717?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/supabase-FFCA28?style=flat&logo=supabase&logoColor=white"/>
 
 <br>
 
